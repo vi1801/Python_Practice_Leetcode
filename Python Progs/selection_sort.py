@@ -9,7 +9,7 @@ def selection_sort(arr):
     return arr
 
 
-arr = [64, 25, 12 ,22, 11]
+arr = [64, 25, 12, 22, 11]
 print(selection_sort(arr))
 
 # O(n^2)
