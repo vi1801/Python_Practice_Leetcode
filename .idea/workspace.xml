@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="dynamic programming">
+    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="dynamic programming knapsack">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
   "keyToString": {
     "Python.Fibbo.executor": "Run",
     "Python.LongComSubseq.executor": "Run",
+    "Python.StringModDistance.executor": "Run",
     "Python.bfs_exp.executor": "Run",
     "Python.binary_search.executor": "Run",
     "Python.bubble_sort.executor": "Run",
@@ -102,13 +103,22 @@
       <option name="project" value="LOCAL" />
       <updated>1729385231470</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dynamic programming knapsack">
+      <option name="closed" value="true" />
+      <created>1729539536530</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729539536530</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reorganise project structure" />
     <MESSAGE value="search and sort examples" />
     <MESSAGE value="dynamic programming" />
-    <option name="LAST_COMMIT_MESSAGE" value="dynamic programming" />
+    <MESSAGE value="dynamic programming knapsack" />
+    <option name="LAST_COMMIT_MESSAGE" value="dynamic programming knapsack" />
   </component>
 </project>
