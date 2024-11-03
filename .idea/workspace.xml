@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="dynamic programming knapsack">
+    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="number of ops to convert 1 string to another one">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +43,14 @@
     "Python.bfs_exp.executor": "Run",
     "Python.binary_search.executor": "Run",
     "Python.bubble_sort.executor": "Run",
+    "Python.daemon_thread.executor": "Run",
+    "Python.first_thread.executor": "Run",
     "Python.knapsack.executor": "Run",
+    "Python.lock_thread.executor": "Run",
+    "Python.polymorph.executor": "Run",
     "Python.selection_sort.executor": "Run",
     "Python.target_uber.executor": "Run",
+    "Python.thread_active_count.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/vidal/PycharmProjects"
@@ -111,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729539536530</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="number of ops to convert 1 string to another one">
+      <option name="closed" value="true" />
+      <created>1729905980476</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729905980476</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,6 +133,7 @@
     <MESSAGE value="search and sort examples" />
     <MESSAGE value="dynamic programming" />
     <MESSAGE value="dynamic programming knapsack" />
-    <option name="LAST_COMMIT_MESSAGE" value="dynamic programming knapsack" />
+    <MESSAGE value="number of ops to convert 1 string to another one" />
+    <option name="LAST_COMMIT_MESSAGE" value="number of ops to convert 1 string to another one" />
   </component>
 </project>

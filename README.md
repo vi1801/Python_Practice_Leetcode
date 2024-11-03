@@ -226,7 +226,3 @@ except Exception as e:
 finally:
     print("This will always execute.")
 ```
-
----
-
-Feel free to modify or expand any of the sections to better fit your project or personal style!
