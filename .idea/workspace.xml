@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="Threading examples">
+    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="Two-pointers examples">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,10 +37,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Fibbo.executor": "Run",
+    "Python.LL_pointer.executor": "Run",
     "Python.LongComSubseq.executor": "Run",
     "Python.Prefix_sum.executor": "Run",
     "Python.Sliding_window.executor": "Run",
     "Python.StringModDistance.executor": "Run",
+    "Python.String_building.executor": "Run",
     "Python.Two_pointers_opp_ends.executor": "Run",
     "Python.bfs_exp.executor": "Run",
     "Python.binary_search.executor": "Run",
@@ -165,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730662283830</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Two-pointers examples">
+      <option name="closed" value="true" />
+      <created>1730673609336</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730673609336</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,6 +185,7 @@
     <MESSAGE value="dynamic programming knapsack" />
     <MESSAGE value="number of ops to convert 1 string to another one" />
     <MESSAGE value="Threading examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Threading examples" />
+    <MESSAGE value="Two-pointers examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Two-pointers examples" />
   </component>
 </project>
