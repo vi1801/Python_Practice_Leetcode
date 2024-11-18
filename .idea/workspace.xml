@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="Two-pointers examples">
+    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="Linked-list two-pointer examples">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
   "keyToString": {
     "Python.Fibbo.executor": "Run",
     "Python.LL_pointer.executor": "Run",
+    "Python.LL_reverse.executor": "Run",
     "Python.LongComSubseq.executor": "Run",
     "Python.Prefix_sum.executor": "Run",
     "Python.Sliding_window.executor": "Run",
@@ -46,19 +47,24 @@
     "Python.Two_pointers_opp_ends.executor": "Run",
     "Python.bfs_exp.executor": "Run",
     "Python.binary_search.executor": "Run",
+    "Python.binary_search_tree.executor": "Run",
     "Python.bubble_sort.executor": "Run",
     "Python.daemon_thread.executor": "Run",
     "Python.first_thread.executor": "Run",
     "Python.knapsack.executor": "Run",
     "Python.lock_thread.executor": "Run",
+    "Python.merge_sort.executor": "Run",
     "Python.polymorph.executor": "Run",
+    "Python.quick_sort.executor": "Run",
     "Python.selection_sort.executor": "Run",
+    "Python.singly_LL.executor": "Run",
     "Python.target_uber.executor": "Run",
     "Python.thread_active_count.executor": "Run",
     "Python.two_pointers_two_inputs.executor": "Run",
+    "Python.zigzag_triples.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/vidal/PycharmProjects"
+    "last_opened_file_path": "C:/Users/vidal/djangoProj/project1"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -175,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730673609336</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Linked-list two-pointer examples">
+      <option name="closed" value="true" />
+      <created>1730675162141</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730675162141</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,6 +200,7 @@
     <MESSAGE value="number of ops to convert 1 string to another one" />
     <MESSAGE value="Threading examples" />
     <MESSAGE value="Two-pointers examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two-pointers examples" />
+    <MESSAGE value="Linked-list two-pointer examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linked-list two-pointer examples" />
   </component>
 </project>
