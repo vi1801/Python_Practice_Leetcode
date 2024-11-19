@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="Linked-list two-pointer examples">
+    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="sorting, searching">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,16 +49,20 @@
     "Python.binary_search.executor": "Run",
     "Python.binary_search_tree.executor": "Run",
     "Python.bubble_sort.executor": "Run",
+    "Python.concurr_data.executor": "Run",
     "Python.daemon_thread.executor": "Run",
     "Python.first_thread.executor": "Run",
     "Python.knapsack.executor": "Run",
     "Python.lock_thread.executor": "Run",
     "Python.merge_sort.executor": "Run",
+    "Python.mul_process.executor": "Run",
+    "Python.mul_process_pool.executor": "Run",
     "Python.polymorph.executor": "Run",
     "Python.quick_sort.executor": "Run",
     "Python.selection_sort.executor": "Run",
     "Python.singly_LL.executor": "Run",
     "Python.target_uber.executor": "Run",
+    "Python.thread1.executor": "Run",
     "Python.thread_active_count.executor": "Run",
     "Python.two_pointers_two_inputs.executor": "Run",
     "Python.zigzag_triples.executor": "Run",
@@ -189,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730675162141</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="sorting, searching">
+      <option name="closed" value="true" />
+      <created>1731965326456</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731965326456</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,6 +213,7 @@
     <MESSAGE value="Threading examples" />
     <MESSAGE value="Two-pointers examples" />
     <MESSAGE value="Linked-list two-pointer examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linked-list two-pointer examples" />
+    <MESSAGE value="sorting, searching" />
+    <option name="LAST_COMMIT_MESSAGE" value="sorting, searching" />
   </component>
 </project>
