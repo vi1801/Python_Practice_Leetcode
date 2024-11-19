@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="multi-threading and multi-processing">
+    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="decorators, filter, map, reduce, lambda">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Progs/anony_funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Progs/anony_funcs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +213,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732042152675</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="decorators, filter, map, reduce, lambda">
+      <option name="closed" value="true" />
+      <created>1732044585245</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732044585245</updated>
+    </task>
+    <task id="LOCAL-00013" summary="decorators, filter, map, reduce, lambda">
+      <option name="closed" value="true" />
+      <created>1732049001863</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732049001863</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,6 +243,7 @@
     <MESSAGE value="Linked-list two-pointer examples" />
     <MESSAGE value="sorting, searching" />
     <MESSAGE value="multi-threading and multi-processing" />
-    <option name="LAST_COMMIT_MESSAGE" value="multi-threading and multi-processing" />
+    <MESSAGE value="decorators, filter, map, reduce, lambda" />
+    <option name="LAST_COMMIT_MESSAGE" value="decorators, filter, map, reduce, lambda" />
   </component>
 </project>
