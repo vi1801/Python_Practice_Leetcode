@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="sorting, searching">
+    <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="multi-threading and multi-processing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,12 +45,15 @@
     "Python.StringModDistance.executor": "Run",
     "Python.String_building.executor": "Run",
     "Python.Two_pointers_opp_ends.executor": "Run",
+    "Python.anony_funcs.executor": "Run",
     "Python.bfs_exp.executor": "Run",
     "Python.binary_search.executor": "Run",
     "Python.binary_search_tree.executor": "Run",
     "Python.bubble_sort.executor": "Run",
     "Python.concurr_data.executor": "Run",
     "Python.daemon_thread.executor": "Run",
+    "Python.decorator.executor": "Run",
+    "Python.filter_map_resduce.executor": "Run",
     "Python.first_thread.executor": "Run",
     "Python.knapsack.executor": "Run",
     "Python.lock_thread.executor": "Run",
@@ -201,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731965326456</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="multi-threading and multi-processing">
+      <option name="closed" value="true" />
+      <created>1732042152675</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732042152675</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -214,6 +225,7 @@
     <MESSAGE value="Two-pointers examples" />
     <MESSAGE value="Linked-list two-pointer examples" />
     <MESSAGE value="sorting, searching" />
-    <option name="LAST_COMMIT_MESSAGE" value="sorting, searching" />
+    <MESSAGE value="multi-threading and multi-processing" />
+    <option name="LAST_COMMIT_MESSAGE" value="multi-threading and multi-processing" />
   </component>
 </project>
