@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d32f8cc1-4929-4f6c-a677-fd21d5a30217" name="Changes" comment="decorators, filter, map, reduce, lambda">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Progs/anony_funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Progs/anony_funcs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,46 +34,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Fibbo.executor": "Run",
-    "Python.LL_pointer.executor": "Run",
-    "Python.LL_reverse.executor": "Run",
-    "Python.LongComSubseq.executor": "Run",
-    "Python.Prefix_sum.executor": "Run",
-    "Python.Sliding_window.executor": "Run",
-    "Python.StringModDistance.executor": "Run",
-    "Python.String_building.executor": "Run",
-    "Python.Two_pointers_opp_ends.executor": "Run",
-    "Python.anony_funcs.executor": "Run",
-    "Python.bfs_exp.executor": "Run",
-    "Python.binary_search.executor": "Run",
-    "Python.binary_search_tree.executor": "Run",
-    "Python.bubble_sort.executor": "Run",
-    "Python.concurr_data.executor": "Run",
-    "Python.daemon_thread.executor": "Run",
-    "Python.decorator.executor": "Run",
-    "Python.filter_map_resduce.executor": "Run",
-    "Python.first_thread.executor": "Run",
-    "Python.knapsack.executor": "Run",
-    "Python.lock_thread.executor": "Run",
-    "Python.merge_sort.executor": "Run",
-    "Python.mul_process.executor": "Run",
-    "Python.mul_process_pool.executor": "Run",
-    "Python.polymorph.executor": "Run",
-    "Python.quick_sort.executor": "Run",
-    "Python.selection_sort.executor": "Run",
-    "Python.singly_LL.executor": "Run",
-    "Python.target_uber.executor": "Run",
-    "Python.thread1.executor": "Run",
-    "Python.thread_active_count.executor": "Run",
-    "Python.two_pointers_two_inputs.executor": "Run",
-    "Python.zigzag_triples.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/vidal/djangoProj/project1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Fibbo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LL_pointer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LL_reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LongComSubseq.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prefix_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sliding_window.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringModDistance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String_building.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Two_pointers_opp_ends.executor&quot;: &quot;Run&quot;,
+    &quot;Python.anony_funcs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bfs_exp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binary_search_tree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bubble_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.concurr_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.daemon_thread.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filter_map_resduce.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first_thread.executor&quot;: &quot;Run&quot;,
+    &quot;Python.knapsack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lock_thread.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merge_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mul_process.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mul_process_pool.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polymorph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quick_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selection_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.singly_LL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.target_uber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread_active_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.two_pointers_two_inputs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zigzag_triples.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vidal/djangoProj/project1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vidal\PycharmProjects\Python Progs" />
@@ -229,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732049001863</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="decorators, filter, map, reduce, lambda">
+      <option name="closed" value="true" />
+      <created>1732057339866</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732057339866</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
